@@ -1,0 +1,24 @@
+#name
+{
+    text-align:center;
+}
+
+#links
+{
+    text-align: center;
+    padding: 10px;
+}
+
+#recipe
+{
+    padding:10px;
+}
+
+img
+{
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
